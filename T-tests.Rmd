@@ -1,0 +1,49 @@
+---
+title: "P-value determination"
+author: "Roberto Bullitta"
+date: "16/06/2022"
+output: html_document
+---
+
+## Type of Surface
+
+```{r}
+df = data.frame(read.csv("Surface_Results.csv"))
+
+df_homo = df[which(df$Result == "homogeneous"),]
+df_hetero = df[which(df$Result == "heterogeneous"),]
+
+t.test(df_homo$Entropy, mu = 7.1, alternative = "less")
+
+df_homo2 = df_homo[which(df_homo$Entropy >= 7.1),]
+
+t.test(df_homo2$Contrast, mu = 140, alternative = "less")
+
+df_homo3  = df_homo2[which(df_homo2$Contrast >= 140),]
+
+t.test(df_homo3$Contrast, mu = 230, alternative = "greater")
+
+
+
+t.test(df_hetero$Contrast, mu = 230, alternative = "less")
+
+#df_hetero2 = df_hetero[which(df_hetero$Entropy >= 7.1),]
+
+#t.test(df_hetero2$Contrast, mu = 230, alternative = "less")
+
+```
+
+## Form
+
+```{r}
+
+df = data.frame(read.csv("Form_Results.csv"))
+#colnames(df)
+
+df_circ = df[which(df$Result == "circular"),]
+df_ireg = df[which(df$Result == "irregular"),]
+
+t.test(df_circ$Round, mu = 0.905, alternative = "greater")
+
+t.test(df_ireg$Round, mu = 0.905, alternative = "less")
+```
