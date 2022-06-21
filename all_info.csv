@@ -1,0 +1,136 @@
+﻿image name,form,margin,surface,texture,sheath,opacity,elevation,consistency,size,colour,diameter,frequency,age,scale,location,observations,Magnification,species
+Image 1,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,5 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 2,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"1,5 mm",ND,48h,black,BR,,1,Dolosigranulum  pigrum
+Image 3,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,7 mm",ND,72h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 4,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,7 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 5,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"1,5 mm",ND,48h,white,BR,,1,Dolosigranulum  pigrum
+Image 6,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,5 mm",ND,72h,black,BR,,1.5,Dolosigranulum  pigrum
+Image 7,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,7 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 8,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,1 mm",ND,48h,white,BR,,1,Dolosigranulum  pigrum
+Image 9,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,7 mm",ND,72h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 10,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,5 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 11,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"1,5 mm",ND,48h,white,BR,,1,Dolosigranulum  pigrum
+Image 12,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,7 mm",ND,72h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 13,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,5 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 14,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"1,5 mm",ND,48h,white,BR,,1,Dolosigranulum  pigrum
+Image 15,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,3 mm,ND,72h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 16,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,5 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 17,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"1,5 mm",ND,48h,white,BR,,1,Dolosigranulum  pigrum
+Image 18,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,8 mm",ND,72h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 19,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,6 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 20,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"1,5 mm",ND,48h,white,BR,,1,Dolosigranulum  pigrum
+Image 21,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,3 mm",ND,72h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 22,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,6 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 23,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"1,5 mm",ND,48h,black,BR,,1,Dolosigranulum  pigrum
+Image 24,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,7 mm",ND,72h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 25,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"0,6 mm",ND,24h,white,BR,,1.5,Dolosigranulum  pigrum
+Image 26,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"1,5 mm",ND,48h,black,BR,,1,Dolosigranulum  pigrum
+Image 27,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellowish,"2,4 mm",ND,72h,white,BR,,1.5,Dolosigranulum  pigrum
+image 28,circular,lobulated,homogeneous,rugose,sheath present,opaque,flat,dry,small,,"2,2 mm ",ND,24h,white,BR,,1.5,Pseudomonas aeruginosa 
+image 29,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,,"3,6 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+image 30,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,,"5,4 mm",ND,72h,black,BR,,1,Pseudomonas aeruginosa 
+image 31,circular,entire,homogeneous,smooth,sheath present,opaque,flat,dry,small,,"2,5 mm ",ND,24h,black,BR,,1.5,Pseudomonas aeruginosa 
+image 32,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,,"4,4 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+image 33,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,,"5,9 mm",ND,72h,black,BR,,1,Pseudomonas aeruginosa 
+image 34,circular,undulate,homogeneous,rugose,sheath present,opaque,flat,dry,small,,"2,8 mm ",ND,24h,black,BR,,1.5,Pseudomonas aeruginosa 
+image 35,circular,entire,homogeneous,rugose,sheath absent,opaque,flat,dry,large,,"4,4 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+image 36,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,,"5,9 mm",ND,72h,black,BR,,1,Pseudomonas aeruginosa 
+image 37,circular,undulate,homogeneous,rugose,sheath present,opaque,flat,dry,small,,"3,7 mm ",ND,24h,black,BR,,1.5,Pseudomonas aeruginosa 
+image 38,circular,undulate,homogeneous,rugose,sheath present,opaque,flat,dry,large,,"8,7 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+image 39,circular,undulate,homogeneous,smooth,sheath present,opaque,flat,dry,large,,"10,3 mm",ND,72h,black,BR,,0.67,Pseudomonas aeruginosa 
+image 40,circular,lobulated,homogeneous,rugose,sheath present,opaque,flat,dry,small,,"2,7 mm ",ND,24h,black,BR,,1.5,Pseudomonas aeruginosa 
+image 41,circular,undulate,homogeneous,rugose,sheath absent,opaque,flat,dry,large,,"5,1 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+image 42,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,,"6,7 mm",ND,72h,black,BR,,1,Pseudomonas aeruginosa 
+image 43,circular,lobulated,homogeneous,rugose,sheath present,opaque,flat,dry,small,,"3,3 mm ",ND,24h,black,BR,,1.5,Pseudomonas aeruginosa 
+image 44,circular,undulate,homogeneous,rugose,sheath absent,opaque,flat,dry,large,,"5,4 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+image 45,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,,"6,2 mm",ND,72h,black,BR,,1,Pseudomonas aeruginosa 
+Image 46,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,large,yellow,7 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 47,circular,undulate,homogeneous,rough,sheath absent,transparent ,flat,dry,small,white,2 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 48,circular,entire,heterogeneous,smooth and wrinkled,sheath absent,opaque,flat,dry,large,yellow,5 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 49,circular,entire,heterogeneous,smooth and wrinkled,sheath absent,opaque,flat,dry,large,yellow,5 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 50,circular,undulate,heterogeneous,rough and wrinkled,sheath absent,opaque,flat,dry,small,yellow,3 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 51,circular,entire,heterogeneous,rough and wrinkled,sheath absent,opaque,flat,dry,large,yellow,7 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 52,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellow,3 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 53,circular,erose,homogeneous,rough,sheath absent,opaque,flat,dry,large,yellow,4 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 54,circular,erose,homogeneous,wrnkled,sheath absent,opaque,flat,dry,small,yellow,1 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 55,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellow,2 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 56,circular,undulate,heterogeneous,smooth and wrinkled,sheath absent,opaque,flat,dry,small,yellow,3 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 57,circular,undulate,homogeneous,rough,sheath present,opaque,flat,dry,large,yellow,6 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 58,circular,undulate,homogeneous,rough,sheath present,opaque,flat,dry,large,yellow,9 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 59,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,large,yellow,5 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 60,circular,undulate,heterogeneous,rough and wrinkled,sheath present,opaque,flat,dry,large,yellow,10 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 61,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"2,7 mm",ND,48h,black,BR,,1.5,
+Image 62,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"3,1 mm",ND,48h,black,BR,,1.5,
+Image 63,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"3,6 mm",ND,72h,black,BR,2 distinct zones,1.5,
+Image 64,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"4,9 mm",ND,72h,black,BR,2 distinct zones,1.5,
+Image 65,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"1,7 mm",ND,48h,black,BR,2 distinct zones,1.5,
+Image 66,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"1,7 mm",ND,48h,black,BR,,1.5,
+Image 67,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,2 mm,ND,72h,black,BR,several distinct zones,1.5,
+Image 68,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"2,3 mm",ND,72h,black,BR,,1.5,
+Image 69,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"3,7 mm",ND,48h,black,BR,2 distinct zones,1.5,
+Image 70,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,large,yellow,"2,2 mm",ND,48h,black,BR,2 distinct zones,1.5,
+Image 71,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,opaque,flat,dry,large,yellowish,"7,2 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 72,circular,undulate,homogeneous,smooth,sheath present,opaque,flat,mucoid,large,yellow,9 mm,ND,48h,black,BR,,0.8,Pseudomonas aeruginosa 
+Image 73,circular,undulate,homogeneous,rough,sheath present,opaque,flat,dry,large,yellow,"7,1 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 74,circular,undulate,heterogeneous,"smooth, wrinkled",sheath absent,opaque,flat,dry,large,yellowish,"6,6 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 75,circular,undulate,homogeneous,rough,sheath present,opaque,flat,dry,large,yellow,"6,5 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 76,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,opaque,flat,dry,large,yellowish,"7,2 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 77,circular,undulate,heterogeneous,"smooth, wrinkled",sheath absent,opaque,flat,dry,small,yellowish,"3,4 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 78,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,opaque,flat,dry,large,yellowish,5 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 79,circular,undulate,homogeneous,smooth,sheath present,opaque,flat,mucoid,large,yellow,"6,7 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 80,circular,undulate,homogeneous,rough,sheath present,opaque,flat,dry,large,yellowish,6 mm,ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 81,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,large,yellowish,"6,3 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 82,circular,undulate,homogeneous,smooth,sheath present,opaque,flat,mucoid,large,yellow,"12,4 mm",ND,48h,black,BR,,0.8,Pseudomonas aeruginosa 
+Image 83,circular,entire,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellowish,"3,3 mm",ND,48h,black,BR,,0.8,Pseudomonas aeruginosa 
+Image 84,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,opaque,flat,dry,small,yellowish,"2,9 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 85,circular,undulate,heterogeneous,"smooth, wrinkled",sheath absent,opaque,flat,dry,large,yellowish,"7,1 mm",ND,48h,black,BR,,0.8,Pseudomonas aeruginosa 
+Image 86,circular,undulate,heterogeneous,"smooth, wrinkled",sheath absent,opaque,flat,dry,large,yellowish,"5,4 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 87,circular,entire,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellowish,"2,1 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 88,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellow,"2,6 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 89,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellowish,"2,6 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 90,circular,undulate,homogeneous,rough,sheath present,opaque,flat,dry,small,yellow,"2,3 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 91,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,large,yellowish,"5,8 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 92,circular,entire,homogeneous,smooth,sheath absent,opaque,flat,dry,small,yellow,"2,0 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 93,circular,entire,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellowish,"2,6 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 94,irregular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellowish,"2,6 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 95,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,opaque,flat,dry,large,yellowish,"5,5 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 96,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellowish,"2,5 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 97,irregular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,small,yellowish,"1,8 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 98,circular,undulate,homogeneous,rough,sheath present,opaque,flat,dry,large,yellow,"6,6 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 99,circular,undulate,homogeneous,rough,sheath absent,opaque,flat,dry,large,yellow,"9,9 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 100,irregular,undulate,homogeneous,rough,sheath present,opaque,flat,dry,large,yellow,"4,6 mm",ND,48h,black,BR,,1,Pseudomonas aeruginosa 
+Image 101,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,"6,9 mm",ND,28h,black,BR,,1,Klebsiella pneumonie
+Image 102,circular,undulate,heterogeneous,"smooth, rough",sheath absent,opaque,flat,moist,large,white,"4,7 mm",ND,28h,black,BR,,1,Pseudomonas aeruginosa 
+Image 103,circular,undulate,heterogeneous,"smooth, rough",sheath absent,opaque,flat,moist,large,white,"6,3 mm",ND,43h,black,BR,,1,Pseudomonas aeruginosa 
+Image 104,circular,undulate,heterogeneous,"smooth, rough",sheath absent,opaque,flat,moist,large,white,"4,2 mm",ND,28h,black,BR,,1,Pseudomonas aeruginosa 
+Image 105,circular,undulate,heterogeneous,"smooth, rough",sheath absent,opaque,flat,moist,large,white,"7,4 mm",ND,43h,black,BR,,1,Pseudomonas aeruginosa 
+Image 106,circular,undulate,heterogeneous,"smooth, rough",sheath absent,opaque,flat,moist,large,white,"4,2 mm",ND,30h,black,BR,,1,Pseudomonas aeruginosa 
+Image 107,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,"7,5 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 108,circular,undulate,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,"6,3  mm",ND,43h,black,BR,,1,Klebsiella pneumonie
+Image 109,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,"6,2 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 110,circular,undulate,heterogeneous,"smooth, rough",sheath absent,opaque,flat,moist,large,white,"4,0 mm",ND,30h,black,BR,,1,Pseudomonas aeruginosa 
+Image 111,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,"6,2 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 112,circular,undulate,homogeneous,smooth,sheath absent,opaque,flat,moist,large,white,"4,7 mm",ND,28h,black,BR,,1,Pseudomonas aeruginosa 
+Image 113,circular,undulate,homogeneous,smooth,sheath absent,opaque,flat,moist,large,white,"4,6 mm",ND,30h,black,BR,,1,Pseudomonas aeruginosa 
+Image 114,circular,undulate,homogeneous,smooth,sheath absent,opaque,flat,moist,large,white,"6,0 mm",ND,43h,black,BR,,1,Pseudomonas aeruginosa 
+Image 115,circular,undulate,heterogeneous,"smooth, rough",sheath absent,opaque,flat,moist,large,white,"5,8 mm",ND,43h,black,BR,,1,Pseudomonas aeruginosa 
+Image 116,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"5,7 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 117,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"6,7 mm",ND,43h,black,BR,,1,Klebsiella pneumonie
+Image 118,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"5,7 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 119,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"6,9 mm",ND,43h,black,BR,,1,Klebsiella pneumonie
+Image 120,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"5,8 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 121,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"5,4 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 122,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"5,8 mm",ND,43h,black,BR,,1,Klebsiella pneumonie
+Image 123,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"4,4 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 124,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"5,1 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 125,circular,undulate,heterogeneous,"rough, wrinkled",sheath absent,iridiscent,flat,moist,large,purple,"6,1 mm",ND,43h,black,BR,,1,Klebsiella pneumonie
+Image 126,circular,undulate,homogeneous,"smooth, rough",sheath absent,opaque,flat,mucoid,large,green,"7,9 mm",ND,42h,black,BR,,1,Pseudomonas aeruginosa 
+Image 127,circular,undulate,homogeneous,"smooth, rough",sheath absent,opaque,flat,mucoid,large,green,"6,3 mm",ND,42h,black,BR,,1,Pseudomonas aeruginosa 
+Image 128,circular,undulate,homogeneous,"smooth, rough",sheath absent,opaque,flat,mucoid,large,green,"6,8 mm",ND,42h,black,BR,,1,Pseudomonas aeruginosa 
+Image 129,circular,undulate,homogeneous,"smooth, rough",sheath absent,opaque,flat,mucoid,large,green,"6,9 mm",ND,42h,black,BR,,1,Pseudomonas aeruginosa 
+Image 130,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,"7,2 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 131,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,10 mm,ND,43h,black,BR,,1,Klebsiella pneumonie
+Image 132,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,"6,6 mm",ND,43h,black,BR,,1,Klebsiella pneumonie
+Image 133,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,"6,8 mm",ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 134,circular,entire,homogeneous,smooth,sheath absent,opaque,convex,mucoid,large,white,7 mm,ND,30h,black,BR,,1,Klebsiella pneumonie
+Image 135,circular,undulate,homogeneous,"smooth, rough",sheath absent,opaque,flat,mucoid,large,green,"6,6 mm",ND,42h,black,BR,,,Pseudomonas aeruginosa 

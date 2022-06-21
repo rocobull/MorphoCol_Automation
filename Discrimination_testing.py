@@ -60,14 +60,10 @@ incorrect3 = []
 
 
 for f,n in files:
-	imp = IJ.openImage(directory3 + "\\" + str(f));
-	IJ.run(imp, "8-bit", "");
-
-	#Get dimensions
-	image_dir = directory3 + "\\" + str(f)
-	#w,h = get_image_dim(image_dir)
-	#imp.setRoi(IJ.OvalRoi(0,0,w,h));
-	IJ.run(imp, "GLCM Texture", "enter=1 select=[0 degrees] angular contrast correlation inverse entropy");
+	imp = IJ.openImage(directory3 + "\\" + str(f))
+	IJ.run(imp, "8-bit", "")
+	
+	IJ.run(imp, "GLCM Texture", "enter=1 select=[0 degrees] angular contrast correlation inverse entropy")
 	table = RT.getResultsTable()
 	#print(table.getRowAsString(0))
 	entropy = table.getValue("Entropy", 0)
@@ -192,14 +188,13 @@ correct = []
 incorrect = []
 
 for f,n in files:
-	imp = IJ.openImage(directory3 + "\\" + str(f));
+	imp = IJ.openImage(directory3 + "\\" + str(f))
     
-	IJ.run(imp, "Measure", "");
+	IJ.run(imp, "Measure", "")
     
 	table = RT.getResultsTable()
     
 	roundness = table.getValue("Round", 0)
-	circ = table.getValue("Circ.", 0)
 
 	if roundness < 0.905:
 		res = "irregular"
@@ -211,10 +206,10 @@ for f,n in files:
 	if res == real:
 		correct.append(n)
 	else:
-		incorrect.append((n, [real, circ, roundness]))
+		incorrect.append((n, [real, roundness]))
 
-	IJ.selectWindow("Results");
-	IJ.run("Close");
+	IJ.selectWindow("Results")
+	IJ.run("Close")
 	
 print("")
 print("")
@@ -275,7 +270,7 @@ wrong = []
 
 for ix,f in enumerate(files):
 	f,n = f
-	imp = IJ.openImage(directory3 + "_orig\\" + str(f));#str(f));
+	imp = IJ.openImage(directory3 + "_orig\\" + str(f))
 
 
 	# Limit the search space for the scale bar selection
@@ -309,15 +304,15 @@ for ix,f in enumerate(files):
 		scale = "1"
 	
 	
-	IJ.run(imp, "Select Bounding Box (guess background color)", "");
-	IJ.run(imp, "Measure", "");
+	IJ.run(imp, "Select Bounding Box (guess background color)", "")
+	IJ.run(imp, "Measure", "")
 	tab = RT.getResultsTable()
 	A,P = tab.getValue("Area", 0), tab.getValue("Perim.", 0)
 	W = get_width(A,P) #Scale width
-	IJ.runMacroFile("Close_All_Windows.fiji.ijm");
+	IJ.runMacroFile("Close_All_Windows.fiji.ijm")
 	
 	# Get cropped image to determine perimeter
-	imp = IJ.openImage(directory3 + "\\" + str(f));
+	imp = IJ.openImage(directory3 + "\\" + str(f))
 	imp.show()
 
 	width = imp.getWidth()
@@ -329,9 +324,9 @@ for ix,f in enumerate(files):
 	if abs(perimeter - float(rows[n]["diameter"][:-3].replace(",","."))) > 1:
 		wrong.append((perimeter, rows[n]["diameter"], n))
 	
-	IJ.runMacroFile("Close_All_Windows.fiji.ijm");
-	IJ.selectWindow("Results");
-	IJ.run("Close");
+	IJ.runMacroFile("Close_All_Windows.fiji.ijm")
+	IJ.selectWindow("Results")
+	IJ.run("Close")
 
 
 print("")
