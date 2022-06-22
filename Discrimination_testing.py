@@ -253,14 +253,14 @@ def get_width(A, P):
     b = -P/2
     c = A
     d = (b**2) - (4*a*c)  #discriminant
-    
-    l = (-b+cmath.sqrt(d))/(2*a)
-    
+
     #Determine w:
-    w = (P/2) - l
+    w = (-b+cmath.sqrt(d))/(2*a)
+
+    #To get height:
+    #h = (P/2) - w
     
-    
-    return max(l.real, w.real)
+    return w.real
 
 
 
@@ -308,18 +308,19 @@ for ix,f in enumerate(files):
 	IJ.run(imp, "Measure", "")
 	tab = RT.getResultsTable()
 	A,P = tab.getValue("Area", 0), tab.getValue("Perim.", 0)
-	W = get_width(A,P) #Scale width
+	Sw = get_width(A,P) #Scale width
+	
 	IJ.runMacroFile("Close_All_Windows.fiji.ijm")
 	
 	# Get cropped image to determine perimeter
 	imp = IJ.openImage(directory3 + "\\" + str(f))
 	imp.show()
 
-	width = imp.getWidth()
+	Iw = imp.getWidth() #Image width
 	scale = float(scale)
 
 	# Perimeter calculation
-	perimeter = (width*scale)/W
+	perimeter = (Iw*scale)/Sw
 	
 	if abs(perimeter - float(rows[n]["diameter"][:-3].replace(",","."))) > 1:
 		wrong.append((perimeter, rows[n]["diameter"], n))
