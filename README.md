@@ -26,4 +26,22 @@ Select Bounding Box class -> https://github.com/fiji/Fiji_Plugins/blob/master/sr
 - **Download**: (RStudio IDE) https://www.rstudio.com/products/rstudio/download/
 
 # File information
-### 
+### Create_files.py
+Python script to be used in ImageJ's script-editor to create CSV files (*Form_Results.csv* and *Surface_Results.csv*) with desired parameter calculations and manually annotated results (for "form" and "type of surface" traits, respectively). The resulting files are used in the *Decision_trees.R* script for decision tree model creations.
+
+### Decision_trees.R / Decision_trees.html
+R script used to create the decision tree models using the files created with the *Create_files.py* script.
+
+NOTE: Only the "type of surface" trait is viable for decision tree model creation at the moment, due to lack of "irregular" colonies for "form" decision trees.
+
+### Discrimination_testing.py
+Python script used in ImageJ's script-editor to determine the number of correct/incorrect estimations according to discriminant values (for "type of surface" and "form" traits) estimated manually or automatically (with the decision tree models created in the *Decision_trees.R* script), and the diameter calculation workflow.
+
+### Morphotyping.py
+Python script used in ImageJ's script-editor composed of functions to be implemented in MorphoCol's software for "type of surface", "form" and diameter estimations for each colony image submission.
+
+### T-tests.Rmd / T-tests.html
+R script for statistical analysis (using t-tests) of the estimated discriminant values for "type of surface" (using a decision tree model) and "form" (manually determined) trait estimations.
+
+### all_info.csv
+CSV file containing all morphological trait information (and additional information) for all 135 colony images used in this project. This file is used to gather the manually annotated morphological features in the *Create_files.py*, *Discrimination_testing.py* and *Morphotyping.py* scripts.
