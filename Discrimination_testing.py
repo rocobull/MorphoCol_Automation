@@ -319,11 +319,11 @@ for ix,f in enumerate(files):
 	Iw = imp.getWidth() #Image width
 	scale = float(scale)
 
-	# Perimeter calculation
-	perimeter = (Iw*scale)/Sw
+	# Diameter calculation
+	diameter = (Iw*scale)/Sw
 	
-	if abs(perimeter - float(rows[n]["diameter"][:-3].replace(",","."))) > 1:
-		wrong.append((perimeter, rows[n]["diameter"], n))
+	if abs(diameter - float(rows[n]["diameter"][:-3].replace(",","."))) > 1:
+		wrong.append((diameter, rows[n]["diameter"], n))
 	
 	IJ.runMacroFile("Close_All_Windows.fiji.ijm")
 	IJ.selectWindow("Results")
